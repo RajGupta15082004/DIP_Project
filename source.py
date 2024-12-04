@@ -311,6 +311,13 @@ if __name__ == "__main__":
 # Now a message of please step out of the frame will be displayed ensure stepping out of frame in 3 seconds
 # as a delay of 3 second is given.Then This will capture the background image showing Background Captured.
 #5.
+# directions in which axis are aligned is:
+# increasing + values in left side(+x-axiz) and 
+# increasing + values in down side(+y-axis). 
+#6.
+# So orient your thumb on left side implying for right hand, palm side should be shown while for 
+# left hand back side should be shown so that thumb oriented towards left.
+#7.
 # Now show only 1 finger at a time the code will play corresponding sound.
 # to switch between fingers first show all fingers then do the same step. 
 # So output window will look like:
